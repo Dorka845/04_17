@@ -1,0 +1,46 @@
+const cipoArr = [
+    {
+        name: 'A cipő',
+        size: 36,
+        color: "piros",
+        price: 12000
+    },
+    {
+        name: 'B cipő',
+        size: 38,
+        color: "zöld",
+        price: 6300
+    },
+    {
+        name: 'C cipő',
+        size: 32,
+        color: "piros",
+        price: 18000
+    },
+    {
+        name: 'D cipő',
+        size: 40,
+        color: "piros",
+        price: 17000
+    },
+    {
+        name: 'E cipő',
+        size: 34,
+        color: "kék",
+        price: 19000
+    },
+    {
+        name: 'F cipő',
+        size: 37,
+        color: "kék",
+        price: 9000
+    }
+]
+
+Összegezze a cipők árait!
+Számolja meg a piros cípőket!
+Válogassa ki zöld cipőket!
+Keresse meg azt a cipőt, aminek a mérete nagyobb 36-nál és a színe kék!
+Keresse meg a legkisebb méretű cipőt!
+Rendezze a tömböt ár szerint nővekvő sorrendbe!
+

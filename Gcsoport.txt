@@ -1,0 +1,45 @@
+const versenyzoArr = [
+    {
+        name: 'A versenyző',
+        from: 'Magyarország',
+        birtyear: 1980
+        height: 183
+    },
+    {
+        name: 'B versenyző',
+        from: 'Spanyolország',
+        birtyear: 1992
+        height: 168
+    },
+    {
+        name: 'C versenyző',
+        from: 'Magyarország',
+        birtyear: 2000
+        height: 172
+    },
+    {
+        name: 'D versenyző',
+        from: 'Olaszország',
+        birtyear: 1995
+        height: 192
+    },
+    {
+        name: 'E versenyző',
+        from: 'Spanyolország',
+        birtyear: 1968
+        height: 175
+    },
+    {
+        name: 'F versenyző',
+        from: 'Magyarország',
+        birtyear: 1999
+        height: 210
+    }
+]
+
+Összegezze az versenyzők magasságát!
+Számolja meg magyarországi versenyzőket
+Válogassa ki az olaszországi versenyzőket!
+Keresse meg azt a spanyolországi versenyzőt, aki alacsonyabb 170 cm-nél!
+Keresse meg a legidősebb versenyzőt!
+Rendezze a versenyzőket magasság szerint csökkenő sorrendben!
