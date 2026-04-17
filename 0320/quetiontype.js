@@ -1,6 +1,10 @@
-export class QuestionType {
-    constructor(question, valid) {
+class QuestionViewType{
+    /**
+     * @param {string} question 
+     */
+    constructor(question) {
         this.question = question;
-        this.valid = valid;
     }
 }
+
+export {QuestionViewType}
